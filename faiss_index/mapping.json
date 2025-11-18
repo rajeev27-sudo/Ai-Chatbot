@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What is Python?",
+        "answer": "Python is a high-level, general-purpose programming language used for web development, machine learning, automation, data science, and more."
+    },
+    {
+        "question": "What is AI?",
+        "answer": "Artificial Intelligence (AI) refers to machines or software that can think and learn like humans using algorithms and data."
+    },
+    {
+        "question": "What is Django?",
+        "answer": "Django is a high-level Python web framework that enables rapid development with built-in authentication, ORM, and admin panel."
+    },
+    {
+        "question": "What is React?",
+        "answer": "React is a JavaScript library used for building interactive user interfaces, especially single-page applications."
+    },
+    {
+        "question": "How does a chatbot work?",
+        "answer": "A chatbot works by analyzing user input, finding the most relevant answer using NLP or machine learning, and responding logically."
+    },
+    {
+        "question": "Bye",
+        "answer": "Bye Sir..."
+    }
+]
