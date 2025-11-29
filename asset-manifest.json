@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rajeev27-sudo/Ai-Chatbot/static/css/main.3f4f7195.css",
+    "main.js": "/rajeev27-sudo/Ai-Chatbot/static/js/main.e8a0c3df.js",
+    "static/js/453.d7446e4a.chunk.js": "/rajeev27-sudo/Ai-Chatbot/static/js/453.d7446e4a.chunk.js",
+    "index.html": "/rajeev27-sudo/Ai-Chatbot/index.html",
+    "main.3f4f7195.css.map": "/rajeev27-sudo/Ai-Chatbot/static/css/main.3f4f7195.css.map",
+    "main.e8a0c3df.js.map": "/rajeev27-sudo/Ai-Chatbot/static/js/main.e8a0c3df.js.map",
+    "453.d7446e4a.chunk.js.map": "/rajeev27-sudo/Ai-Chatbot/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f4f7195.css",
+    "static/js/main.e8a0c3df.js"
+  ]
+}
